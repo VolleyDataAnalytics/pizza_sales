@@ -1,4 +1,6 @@
 # pizza_sales
+**Overview**
+This repository contains an SQL analysis of a pizza_sales dataset. The dataset includes information about pizza sales transactions, including order details, and pizza types. The analysis is divided into three levels: basic, intermediate, and advanced, each focusing on different aspects of data querying and manipulation.
 # sql query
 **Basic:**
 - Retrieve the total number of orders placed.
